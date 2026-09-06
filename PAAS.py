@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime, timedelta
 
-API_KEY = "8OFMAKL6VcEb9SeZRfownSBgiOHEetleNt0xbdIx"
+API_KEY = "get_your_api_bruh"
 
 years_back = int(input("Years in the past to check: "))
 years_forward = int(input("Years in the future to check: "))
