@@ -1,6 +1,6 @@
 from google import genai
 
-client = genai.Client(api_key="AQ.Ab8RN6I-nvu8xu6CQm7_r0wFZ1O-_0NISLJ2jvE0ItSZzWxvmg")
+client = genai.Client(api_key="I_Don't_Feel_Like_Sharing_My_API")
 
 my_website_bio = """
 - Name: Mihir Pratap
