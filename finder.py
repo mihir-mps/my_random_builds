@@ -1,3 +1,5 @@
+#sorry it only works for github
+
 import requests
 get_platform=input("platform: ")
 get_username=input("username: ")
